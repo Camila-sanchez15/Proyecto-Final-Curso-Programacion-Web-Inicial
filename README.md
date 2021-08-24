@@ -26,7 +26,7 @@ npm install
     "nodemon": "^2.0.2"
   
 ```
-
+## la pagina corre en localhost:3000
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
